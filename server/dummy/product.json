@@ -1,0 +1,37 @@
+[
+    {
+        "name": "TV Panasdingin",
+        "descriptions": "Tv paling canggih 2020",
+        "price": 5000000,
+        "image_url": "https://images.philips.com/is/image/PhilipsConsumer/50PUT6604_70-IMS-en_ID?$jpglarge$&wid=960",
+        "CategoryId": 3
+    },
+    {
+        "name": "TV OLED Samsak",
+        "descriptions": "Tv OLED paling canggih 2020",
+        "price": 10000000,
+        "image_url": "https://images.philips.com/is/image/PhilipsConsumer/50PUT6604_70-IMS-en_ID?$jpglarge$&wid=960",
+        "CategoryId": 3
+    },
+    {
+        "name": "Hoodie merah M&H",
+        "descriptions": "Nyaman dan lembut dipakai",
+        "price": 499000,
+        "image_url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F9b%2Fbd9b6bc43a79f0f4cc53b8a5cf013b1b2938d498.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+        "CategoryId": 1
+    },
+    {
+        "name": "Waffer Samba",
+        "descriptions": "Waffer nya renyah banget",
+        "price": 5000,
+        "image_url": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1627974807/hhkmrdl8gbgta21ugroe.jpg",
+        "CategoryId": 2
+    },
+    {
+        "name": "Biskuit Milan",
+        "descriptions": "Digemari sejak tahun 90an",
+        "price": 10000,
+        "image_url": "https://cdn-2.tstatic.net/kaltim/foto/bank/images/biskuit_1.jpg",
+        "CategoryId": 2
+    }
+]
